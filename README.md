@@ -1,7 +1,3 @@
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
-
 Hi There 👋,
 
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my [webpage](https://erynial.github.io/erynial-webpage/) for my projects!
@@ -10,7 +6,6 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
   ---
 
 ## 🔧 Technologies & Tools
-
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -20,7 +15,6 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
  ---
 
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/Erynial/Erynial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
