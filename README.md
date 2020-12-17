@@ -9,7 +9,7 @@ Hi! I'm Erynial and i love and know java & C#
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erynial&repo=AppLauncher&theme=dark" />
 </a>
-
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 <!--
 **Erynial/Erynial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
