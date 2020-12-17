@@ -3,9 +3,12 @@
 ### :writing_hand: About me:
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my <gwebpage for my projects!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&layout=compact&theme=dark)]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&layout=compact&theme=dark" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erynial&repo=AppLauncher&theme=dark" />
