@@ -4,20 +4,23 @@
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my <gwebpage for my projects!
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&layout=compact&theme=dark" />
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Erynial/Erynial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
+<a href="https://github.com/MartinHeinz/Erynial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erynial&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Erynial/AppLauncher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=AppLauncher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erynial&repo=AppLauncher&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erynial&repo=erynial-webpage&theme=dark" />
-</a>
+<a href="https://github.com/Erynial/erynial-webpage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=erynial-webpage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 <!--
 **Erynial/Erynial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
