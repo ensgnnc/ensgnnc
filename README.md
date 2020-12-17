@@ -1,7 +1,7 @@
 ### Hi, everyone!
 
 ### :writing_hand: About me:
-Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my <gwebpage for my projects!
+Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my [webpage](https://erynial.github.io/erynial-webpage/) for my projects!
 
 
 ## &#x1f4c8; GitHub Stats
