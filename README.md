@@ -2,7 +2,8 @@
 
 ### :writing_hand: About me:
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my [webpage](https://erynial.github.io/erynial-webpage/) for my projects!
----
+
+  ---
 
 ## 🔧 Technologies & Tools
 
@@ -12,7 +13,8 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 
----
+  ---
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Erynial/Erynial">
