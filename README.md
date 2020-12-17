@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi! I'm Erynial and i love and know java & C#
+
 <!--
 **Erynial/Erynial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
