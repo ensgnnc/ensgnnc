@@ -2,7 +2,7 @@
 
 Hi! I'm Erynial and i love and know java & C#
 
-:Writing:
+:writing_hand:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
