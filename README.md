@@ -2,9 +2,9 @@
 
 ### :writing_hand: About me:
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my [webpage](https://erynial.github.io/erynial-webpage/) for my projects!
-
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+---
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 
 ## 🔧 Technologies & Tools
@@ -13,7 +13,7 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-
+---
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Erynial/Erynial">
@@ -27,10 +27,9 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=AppLauncher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/Erynial/erynial-webpage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=erynial-webpage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
 <!--
 **Erynial/Erynial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
