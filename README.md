@@ -12,6 +12,16 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
 
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
+<p align='center'>
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+ <p/>
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
+		<img src="follower.svg" width="800" height="140">
+	</a>
+</div>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Erynial/Erynial">
