@@ -3,24 +3,16 @@
 ### :writing_hand: About me:
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my [webpage](https://erynial.github.io/erynial-webpage/) for my projects!
 
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
-
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
 
 ## &#x1f4c8; GitHub Stats
 
