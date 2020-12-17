@@ -6,6 +6,7 @@ Hi There 👋,
 
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my [webpage](https://erynial.github.io/erynial-webpage/) for my projects!
 
+
   ---
 
 ## 🔧 Technologies & Tools
@@ -15,6 +16,8 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+
+ ---
 
 ## &#x1f4c8; GitHub Stats
 
@@ -32,6 +35,8 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
 <a href="https://github.com/Erynial/erynial-webpage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=erynial-webpage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+---
 <!--
 **Erynial/Erynial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
