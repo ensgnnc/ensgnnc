@@ -14,6 +14,16 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
 
  ---
 
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Erynial/Erynial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
