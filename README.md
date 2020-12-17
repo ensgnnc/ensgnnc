@@ -1,6 +1,8 @@
-### Hi, everyone!
+<p>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+</p>
 
-### :writing_hand: About me:
+Hi There 👋,
 Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft anarchy client. Here is my [webpage](https://erynial.github.io/erynial-webpage/) for my projects!
 
   ---
