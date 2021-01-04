@@ -14,16 +14,6 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
 
  ---
 
- <p>
-  <img width="250" align='left' src="">
-</p>
- 
-### Boy Scout Rule
-
-test
-
- ---
-
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/Erynial/Erynial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
