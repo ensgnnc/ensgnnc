@@ -26,7 +26,7 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=AppLauncher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Erynial/erynial-webpage">
+<a href="https://github.com/Erynial/BaseForEveryone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=erynial-webpage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
