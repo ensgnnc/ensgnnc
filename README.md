@@ -15,19 +15,19 @@ Hi! I'm Erynial and I'm a proggrammer. And im currently working on a Minecraft a
  ---
 
 ### &#x1f4c8; GitHub Stats
-<a href="https://github.com/Erynial/Erynial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erynial&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rinqq/rinqq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinqq&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/Erynial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erynial&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Erynial/AppLauncher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=AppLauncher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/MartinHeinz/rinqq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rinqq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rinqq's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Erynial/BaseForEveryone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erynial&repo=baseforeveryone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rinqq/AppLauncher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rinqq&repo=AppLauncher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/rinqq/BaseForEveryone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rinqq&repo=baseforeveryone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ---
