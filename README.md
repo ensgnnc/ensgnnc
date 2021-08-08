@@ -12,8 +12,7 @@ Hi! I'm Rinqq and I'm a proggrammer. And im currently working on a Minecraft ana
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 
- ---
-
+<!--
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/rinqq/rinqq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinqq&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -29,7 +28,7 @@ Hi! I'm Rinqq and I'm a proggrammer. And im currently working on a Minecraft ana
 <a href="https://github.com/rinqq/PasswordManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rinqq&repo=baseforeveryone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+-->
 ---
 <!--
 **Erynial/Erynial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
