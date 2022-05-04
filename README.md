@@ -7,8 +7,8 @@
 
 ## I'm a Student and Developer!!
 
-- 🥅 2022 Goals: .
-- ⚡ Fun fact: I love watching NBA matches
+- 🥅 2023 Goal: Publish my first mobile app.
+- ⚡ Fun fact: I'm intresed in body building.
 
 ### Connect with me:
 
