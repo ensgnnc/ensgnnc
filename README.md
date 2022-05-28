@@ -8,7 +8,7 @@ Hi 👋 My name is Enis Günenç
 
 <a href="https://www.twitter.com/_R1nq" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_R1nq?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/rinqq" target="_blank" rel="noreferrer"><img
+/> </a><a href="https://www.github.com/rinqq" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rinqq?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
