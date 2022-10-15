@@ -3,8 +3,8 @@ Hi 👋 My name is Enis Günenç
 
 * 🌍  I'm based in İzmir/Turkey
 * 🚀  I'm currently working on [FocusTime](http://github.com/rinqq/focustime)
-* 🧠  I'm learning Flutter and React
-* ⚡  I am interested in bodybuilding.
+* 🧠  I'm learning Unity
+* ⚡  I am interested in bodybuilding and basketball.
 
 <a href="https://www.twitter.com/_R1nq" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_R1nq?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
