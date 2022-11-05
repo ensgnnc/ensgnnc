@@ -2,7 +2,7 @@ Hi 👋 My name is Enis Günenç
 ============================
 
 * 🌍  I'm based in İzmir/Turkey
-* 🚀  I'm currently working on [FocusTime](http://github.com/rinqq/focustime)
+* 🚀  I'm currently working on a [game](http://github.com/rinqq/TeknoOdemis) for [TeknoOdemis](https://www.linkedin.com/company/tekno-ödemiş)
 * 🧠  I'm learning Unity
 * ⚡  I am interested in bodybuilding and basketball.
 
