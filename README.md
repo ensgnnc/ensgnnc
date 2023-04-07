@@ -1,4 +1,4 @@
-Hi 👋 My name is Enis Günenç
+Hi 👋 My name is Enis
 ============================
 
 * 🌍  I'm based in İzmir/Turkey
