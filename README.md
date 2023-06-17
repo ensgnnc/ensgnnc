@@ -2,8 +2,7 @@ Hi 👋 My name is Enis
 ============================
 
 * 🌍  I'm based in İzmir/Turkey
-* 🚀  I'm currently working on a [game](http://github.com/rinqq/TeknoOdemis) for [TeknoOdemis](https://www.linkedin.com/company/tekno-ödemiş)
-* 🧠  I'm learning Unity
+* 🧠  I'm currently learning NesJS.
 * ⚡  I am interested in bodybuilding and basketball.
 
 <a href="https://www.twitter.com/_R1nq" target="_blank" rel="noreferrer"><img
